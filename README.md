@@ -1,7 +1,7 @@
 # Excel-Repo
 ![Excel](https://github.com/user-attachments/assets/4ca9b024-dffb-44df-9dfa-e6c2f3a1e63a)
 
-Containing data sets e.g., Bike_Sales, Student Marks Data. This repository includes data analysis, formulas, and visualizations to provide insights and streamline reporting processes. The Excel file is designed for easy data entry and analysis, offering powerful filtering, sorting, and charting features
+This Excel workbook containing data sets e.g., Bike_Sales, Student Marks and retail_sales_dataset.xlsx Data. This repository includes data analysis, formulas, and visualizations to provide insights and streamline reporting processes. The Excel file is designed for easy data entry and analysis, offering powerful filtering, sorting, and charting features.
 
 Excel Workbook examples using Aggregate functions like SUM, AVG, MAX, Filter conditions and condional formatting and finally creating pivot table and charts.
 
@@ -30,7 +30,12 @@ Here is the screen shot of the result:
  ![image](https://github.com/user-attachments/assets/52f07dd2-43ed-45cf-8673-7b26dbff131c)
  ![image](https://github.com/user-attachments/assets/81faf160-119b-4dbe-b432-e60c2dec04b4)
 
-# Project 3: Using Pivot Tables
+# Project 3: Using Pivot Tables -  
+Pivot Table is a great tool for summarizing and analyzing data in Excel. Here are some of the advantages of using Pivot Tables:
+* There is no need to use formulas in order to perform calculations.
+* We can perform complex calculations in a quick and simple way.
+* The summarized data is dynamic and can easily be applied to different sets of data
+
 This project used the Bike_Sales_Pivot dataset: Bike_Sales_Pivot.xlsx
 
 Here is the screen shot of the result:
